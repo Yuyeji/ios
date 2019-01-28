@@ -1,3 +1,4 @@
 # ios
-1. 변수연습_constantvariable
-2. string연습_string
+1. 변수 연습_constantvariable
+2. 문자열 연습_string
+3. dictionary 연습_dictionary
