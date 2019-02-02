@@ -5,3 +5,4 @@
 4. 흐름제어 연습_for,while
 5. if, swhich
 6. 함수 연습_function
+7. class
