@@ -6,3 +6,4 @@
 5. if, swhich
 6. 함수 연습_function
 7. class
+8. 
